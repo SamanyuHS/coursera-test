@@ -1,2 +1,0 @@
-# Corsera-test
-Test file
